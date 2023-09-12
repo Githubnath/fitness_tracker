@@ -61,7 +61,7 @@ npm run develop
   ![Screenshot](./client/src/assets/screenshots/5.png)
 
 - History Page <br>
-  ![Screenshot](./client/src/assets/screenshots/6.png)
+  ![Screenshot](./c/src/assets/screenshots/6.png)
 
 - Single Cardio History <br>
   ![Screenshot](./client/src/assets/screenshots/7.png)
@@ -78,7 +78,7 @@ This project is licensed under MIT, for more information please visit [this webs
 
 - Icons are from www.flaticon.com
 - Backgroun photos are from www.pexels.com
-- Made with ❤️ by Wenwen Tian
+- Made with ❤️  by Emenike Nathaniel
 
 ## Questions?
 
