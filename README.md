@@ -77,12 +77,12 @@ This project is licensed under MIT, for more information please visit [this webs
 ## Contribution
 
 - Icons are from www.flaticon.com
-- Backgroun photos are from www.pexels.com
+- Background  photos are from www.pexels.com
 - Made with ❤️  by Emenike Nathaniel
 
 ## Questions?
 
 Please feel free to contact me if you need any further information:
 
-- [Email](emenike.nathaniel@gmail.com)
+- [Email](emenikenathaniel55@gmail.com)
 - [Github Profile](https://github.com/githubnath)
