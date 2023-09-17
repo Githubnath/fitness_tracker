@@ -83,5 +83,17 @@ This project is licensed under MIT, for more information please visit [this webs
 
 Please feel free to contact me if you need any further information:
 
-- [Email](emenikenathaniel55@gmail.com)
+
+- <h3>Email</h3>
+<hr>
+- <p align="left"><b>Mail</b> - <a href="mailto:emenikenathaniel55@gmail.com"><i>emenike.nathaniel@gmail.com</i></a></p>
+
 - [Github Profile](https://github.com/githubnath)
+
+
+<h3>Linkedin</h3>
+
+<ul>
+        <li><a href="https://www.linkedin.com/mwlite/in/nathaniel-emenike">Emenike Nathaniel</a> - Author's  Linkedin
+</ul>
+
