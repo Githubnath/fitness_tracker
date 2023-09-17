@@ -13,17 +13,18 @@ A MERN-stack fitness tracker app.
 
 ## Description:
 
-A user-friendly MERN-stack application that enables individuals to easily track and manage their daily fitness routines. Features include logging and tracking of both cardio and resistance exercises, viewing of workout history, and ability to delete exercises.
+A user-friendly MERN-stack application that enables individuals to easily track and manage their daily fitness routines. Key features include logging and tracking of both cardio and resistance exercises, viewing of workout history, and ability to delete exercises.
 
 ## Technology:
 
-Project is created with:
+This Project utilized the following technologies:
 
-- Mongoose
-- Express.js
+- MongoDB and Mongoose - for database management
+- Express.js - for building the server and RESTful APIs
 - React.js
 - Node.js
 - JWT Authentication
+- Google Calendar API
 
 ## Installation
 
@@ -43,7 +44,7 @@ npm run develop
 
 [Click me to see the app!](https://fit.emenikenath.com.ng)
 
-#### Example Screenshot
+#### Preview
 
 - Home Page <br>
   ![Screenshot](./client/src/assets/screenshots/1.png)
@@ -97,3 +98,10 @@ Please feel free to contact me if you need any further information:
         <li><a href="https://www.linkedin.com/mwlite/in/nathaniel-emenike">Emenike Nathaniel</a> - Author's  Linkedin
 </ul>
 
+
+
+<h3>Twitter</h3>
+
+<ul>
+        <li><a href="https://www.twitter.com/EngrNath3">Emenike Nathaniel</a> - Author's  Twitter Handle
+</ul>
