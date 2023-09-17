@@ -41,7 +41,7 @@ After installing npm packages, the application will be invoked by using the foll
 npm run develop
 ```
 
-[Click me to see the app!](https://fittrack-mlj.onrender.m)
+[Click me to see the app!](https://fit.emenikenath.com.ng)
 
 #### Example Screenshot
 
@@ -61,13 +61,12 @@ npm run develop
   ![Screenshot](./client/src/assets/screenshots/5.png)
 
 - History Page <br>
-  ![Screenshot](./c/src/assets/screenshots/6.png)
-
+  ![Screenshot](./client/src/assets/screenshots/png6.png)
 - Single Cardio History <br>
-  ![Screenshot](./client/src/assets/screenshots/7.png)
+  ![Screenshot](./client/src/assets/screenshots/png7.png)
 
 - Single Resistance History <br>
-  ![Screenshot](./client/src/assets/screenshots/8.png)
+  ![Screenshot](./client/src/assets/screenshots/png8.png)
 
 ## License
 
