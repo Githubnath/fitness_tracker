@@ -19,12 +19,12 @@ A user-friendly MERN-stack application that enables individuals to easily track 
 
 This Project utilized the following technologies:
 
-- MongoDB and Mongoose - for database management
-- Express.js - for building the server and RESTful APIs
-- React.js
-- Node.js
-- JWT Authentication
-- Google Calendar API
+- MongoDB and Mongoose - for database management.
+- Express.js - for building the server and RESTful APIs.
+- React.js - for creating an interactive and responsive user interface.
+- Node.js - for server-side logic.
+- JWT  -  Authentication for secure user access.
+- Google Calendar API - synchronizing with google calendar, hence enabling synchronization between the app and the user's google calendar, ensuring that scheduled fitness activities and events are consistent.
 
 ## Installation
 
