@@ -42,6 +42,13 @@ After installing npm packages, the application will be invoked by using the foll
 npm run develop
 ```
 
+<h3> Demo</h3>
+<hr>
+<ul>
+<li><b>Demo</b> - click <a href="https://fit.emenikenath.com.ng"><b>here </b></a>
+<ul>
+
+
 [Click me to see the app!](https://fit.emenikenath.com.ng)
 
 #### Preview
